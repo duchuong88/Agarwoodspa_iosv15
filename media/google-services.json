@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "436426122147",
+    "firebase_url": "https://agarwood-spa-default-rtdb.firebaseio.com",
+    "project_id": "agarwood-spa",
+    "storage_bucket": "agarwood-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436426122147:android:88dafb455b5fe6051c7016",
+        "android_client_info": {
+          "package_name": "agarwoodspa.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5hu29xbxIGVpkjRg-zb5lGXN8VPT5kW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
